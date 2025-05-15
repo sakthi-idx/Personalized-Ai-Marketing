@@ -31,7 +31,7 @@ Ecommerce website built with Django 2.2.3, Python 3.7.3
 
 # Installation
 
-`git clone https://github.com/zinmyoswe/Django-Ecommerce.git`
+`git clone https://github.com/sakthi-idx/Personalized-Ai-Marketing`
 
 `cd Django-Ecommerce`
 
